@@ -4,3 +4,4 @@
 # [Тәсілдер](info.svg "Mindmap")
 # [Мобильді қосымша Алақай балақай](mobile_app.svg "Mindmap")
 # [Суперкомпьютер ](super.html "Суперкомпьютер")
+# [ТжКБ ](index_h5p.html "Лекция")
